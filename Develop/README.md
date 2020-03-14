@@ -50,3 +50,16 @@ You are required to submit the following:
 * The URL to the deployed application
 
 * The URL to the Github repository
+
+Fitness Tracker
+
+A user should be able to view create and track daily workouts. Log multiple exercises in a workout on any given day. The user be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user will be able to track the distance traveled.
+
+What is this application using
+Mongodb
+Mongoose
+node.js
+morgan
+express
+deployed on heroku
+configure add-on mLabMongodb
